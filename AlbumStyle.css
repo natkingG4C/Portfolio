@@ -1,2 +1,4 @@
 #paragraph1 {color:purple}
 #webpage {background-color:honeydew}
+    #table3, tbody, tr:nth-child(odd) {background-color:honeydew;}
+      #table3, tbody, tr:nth-child(even) {background-color:peachpuff;}
