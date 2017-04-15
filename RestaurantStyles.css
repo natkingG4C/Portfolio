@@ -1,3 +1,4 @@
 footer {font-weight:bold}
 header {background-color:lightblue}
 html {background-color:slateblue}
+a {color: purple} a:visited {color:gray;} a:hover {font-style: italic ;} a:active {text-decoration: none}
