@@ -1,0 +1,23 @@
+
+
+Total Height = 150px + (20px*2) + (1px*2) + (10px*2)
+Total Hegiht = 212px
+
+Total Width = 400px + (20px*2) + (1px*2) + (10px*2)
+Total Width = 462px
+
+Browser Calc Height = 150px + (1px*2) + (10px*2)
+Browser Calc Height = 172px
+
+Browser Calc Width = 400px + (1px*2) + (10px*2)
+Browser Calc Width = 422px
+
+
+
+
+
+Total Height = content + top padding + bottom padding + top border + bottom border
+Total Width= same principle, but left to right in Box Model
+
+Browser Calc. Height = content + top padding + bottom padding + top border + bottom border
+Browser Cacl. Width= same principle w/o margins, but left to right in Box Model
